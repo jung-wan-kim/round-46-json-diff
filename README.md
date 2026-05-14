@@ -1,2 +1,1 @@
-# round-46-json-diff
-UFC-Harness Round 46: Json Diff
+# Round 46: Json Diff\n\n## Spec\nJSON diff/patch 구현 (RFC 6902).
